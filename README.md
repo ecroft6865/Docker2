@@ -1,2 +1,0 @@
-# puppetserver
-# test_puppet
