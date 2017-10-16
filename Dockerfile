@@ -4,3 +4,5 @@ EXPOSE 80
 
 RUN mkdir -p ~/home/ecroft/  
 RUN mkdir -p ~/home/scripts/
+
+CMD httpd -k stop
