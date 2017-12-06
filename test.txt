@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-test
-=======
-tester
-
-TESTING MERGE
->>>>>>> 1fa995049821df7f70df537e944930243c02965a
